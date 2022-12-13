@@ -1,2 +1,8 @@
 # Calculator-WinForm
- A Calculator WinForm app. [NET Framework]
+ A Calculator WinForm using .NET framework and C#
+
+# Functionality
+ Calculator is a desktop application that enables users to perform basic mathematical calculations, such as addition, subtraction, multiplication, and division. The app has a user interface that is designed to resemble a physical calculator, with buttons for the numbers and mathematical operations, as well as a display area for the results. Users can enter numbers and mathematical expressions using the buttons on the calculator, and the app will automatically compute the result and display it on the screen. Additionally, the app may have advanced features such as memory functions, decimal and scientific notation, and trigonometric and logarithmic functions.
+
+# Tech Stack
+The software stack used for this project includes C# for the programming language, the .NET framework for the development platform, and WinForms for the graphical user interface (GUI) library. C# is a modern, object-oriented programming language that is widely used for building a range of applications, from web and mobile to desktop and games. The .NET framework is a software development platform developed by Microsoft that provides a rich set of libraries and tools for building, deploying, and running applications. WinForms is a .NET framework library for building GUI applications, and provides a drag-and-drop design interface and a variety of pre-built components for creating user interfaces. Together, these technologies provide a powerful and versatile software stack for building the calculator app.
